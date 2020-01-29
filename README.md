@@ -1,3 +1,4 @@
+![Python application](https://github.com/gmright2/gmrightkenja-/workflows/Python%20application/badge.svg?branch=master)
 ![20190831_173834](https://user-images.githubusercontent.com/54698352/64069765-5cd01b80-cc16-11e9-8f5e-1d85ce7bdd1e.jpg)
 
 Commit some missing work and work with us let help to pull up some of the issue 
