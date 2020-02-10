@@ -1,0 +1,2 @@
+<!-- Just a single step: Deploy using a GitHub token -->
+$ mvn deploy -Dregistry=https://maven.pkg.github.com/gmright2 -Dtoken=GH_TOKEN
